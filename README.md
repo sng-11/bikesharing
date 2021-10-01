@@ -21,4 +21,5 @@ Captions on each Tableau slide provides more detailed storytelling regarding the
 Based on the results from this analysis, we can conclude that there can be considerable business for a bikesharing program if we focus on securing commuting clients by offering comprehensive plans and an abundance of bikes during the busy hours. We should also focus our marketing efforts on the younger male population as our target audience although it will be equally important to explore why women tend to use Citibikes less (as in, are there any hidden discriminatory elements in the program). And finally, charging stations for the bikes should be at most 60 mins from each other. 
 
 Although this analysis project provided much insight on the business of bikesharing, it would be interesting to also explore:
-- 
+- _"Number of trips per start station"_, for which stations are more popular and therefore, should contain more bikes.
+- _"Start station location based on time of day"_: to investigate which stations are popular and at what times so that again, the number of bikes can be adjusted.
