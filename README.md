@@ -6,4 +6,11 @@ After our clients' highly positive experience with citiBike in New York City, we
 ## Results
 To access the Tableau dashboard housing the data, click on this link here: [link to dashboard](https://public.tableau.com/app/profile/sharon.ng4817/viz/CitibikeChallenge_16330520897360/NYCCitibikeAnalysisProjectStory?publish=yes "link to dashboard")
 
+Captions on each Tableau slide provides more detailed storytelling regarding the data but to briefly describe what the key points are for each of the visualization in the Tableau story:
+
+1. The first visualization is the _"Number of trips based on hour of the day in August"_ and it shows that popular hours are between 7AM and 8PM. This informs our project when we should ensure we have an abundance of available bikes.
+2. The second visualization is the _"Heatmap depicting popular hours of bikesharing during the entire week_ and it shows that use is more often around the commuting hours on weekdays (i.e. start and end of business day).
+3. The third visualization is the _"Average trip duration based on birth year_ and it shows that the younger population (those born after 1990) utilize bikesharing more. This informs us that our marketing should be targeted towards this age cohort.
+4. The fourth visualization is the _"_
+
 ## Summary
