@@ -17,3 +17,8 @@ Captions on each Tableau slide provides more detailed storytelling regarding the
 7. The seventh, and final, visualization explores the _"Trip duration among Citibike users"_ and it is found that most trips are under 60 minutes. This tells us that bikes should have enough battery to last for at least 60 mins until another charging station. As such, we can infer that stations should be only at most 1 hour away from each other.
 
 ## Summary
+
+Based on the results from this analysis, we can conclude that there can be considerable business for a bikesharing program if we focus on securing commuting clients by offering comprehensive plans and an abundance of bikes during the busy hours. We should also focus our marketing efforts on the younger male population as our target audience although it will be equally important to explore why women tend to use Citibikes less (as in, are there any hidden discriminatory elements in the program). And finally, charging stations for the bikes should be at most 60 mins from each other. 
+
+Although this analysis project provided much insight on the business of bikesharing, it would be interesting to also explore:
+- 
